@@ -54,6 +54,6 @@ int main(){
     */
 
     a = 50;
-    printf("Zmienna b jest %s 50", (a>50)?"większa od":"mniejsza bądź równa");
+    printf("Zmienna a jest %s 50", (a>50)?"większa od":"mniejsza bądź równa");
     return 0;
 }
